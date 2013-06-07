@@ -4,12 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.signed.codeoftheweek</groupId>
-    <artifactId>CodeOfTheWeek</artifactId>
+    <artifactId>leakloader</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <modules>
-        <module>validator</module>
-        <module>leakloader</module>
+        <module>original</module>
     </modules>
 </project>
