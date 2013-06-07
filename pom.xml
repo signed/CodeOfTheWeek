@@ -9,8 +9,8 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>validator</module>
-        <module>leakloader</module>
+        <module>validator/original</module>
+        <module>leakloader/original</module>
     </modules>
 </project>
 
