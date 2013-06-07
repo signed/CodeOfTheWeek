@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.signed.codeoftheweek.leakloader</groupId>
-    <artifactId>orignal</artifactId>
+    <artifactId>orignal-code</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <properties>

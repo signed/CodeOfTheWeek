@@ -9,6 +9,6 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>original</module>
+        <module>original-code</module>
     </modules>
 </project>
