@@ -11,6 +11,7 @@
     <modules>
         <module>validator</module>
         <module>leakloader</module>
+        <module>singleton-initializer</module>
     </modules>
 
     <properties>
